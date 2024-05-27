@@ -8,13 +8,3 @@ while (enteredNum != 0) {
 
 console.log(outputNum);
 
-// let myNum =-12346
-// let myNumString =myNum.toString()
-// let myNumArray =myNumString.split('');
-// let sign:string =""
-// if(myNumArray[0]==='-'||myNumArray[0]==='+'){
-//     sign=myNumArray[0]
-//     myNumArray=myNumArray.slice(1);
-// }
-//  let reversedString =sign+myNumArray.reverse().join('')
-//  console.log(reversedString)
